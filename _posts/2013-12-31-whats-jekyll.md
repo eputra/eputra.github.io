@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's Jekyll?
+comments: true
 permalink: what-jekyll
 ---
 
