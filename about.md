@@ -10,8 +10,6 @@ title: About
 
 Saya sangat suka sekali dengan teknologi terutama komputer. Saat ini saya sedang menempuh pendidikan Sarjana di Universitas Kuningan (UNIKU) program studi Teknik Informatika.
 
-Blog ini akan lebih banyak membahas tentang teknologi, komputer, programming, dan tugas kuliah.
-
 **Kontak**
 
 - Facebook : [http://facebook.com/eka415](http://facebook.com/eka415 "Facebook")
