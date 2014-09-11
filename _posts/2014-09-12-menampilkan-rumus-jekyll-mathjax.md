@@ -14,7 +14,7 @@ Cara menampilkan rumus di blog jekyll offline (localhost) dengan mathjax:
 
 - Buat file `math.html` simpan di folder `_includes` 
 
-{% highlight js %}
+{% highlight html %}
 <script type="text/javascript"
 src="http://localhost:4000/math/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
@@ -63,7 +63,7 @@ src="http://localhost:4000/math/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 ## Blog Jekyll Online
 Untuk menampilkan rumus di blog jekyll online dengan mathjax anda tidak perlu mendownload mathjax, anda hanya perlu membuat file `math.html` simpan di folder `_includes`
 
-{% highlight js %}
+{% highlight html %}
 <script type="text/javascript"
 src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
