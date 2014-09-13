@@ -71,7 +71,7 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 
 Edit file `defaul.html` dan tambahkan kode `{% raw %}{% include math.html %}{% endraw %}` seperti di blog jekyll offline (localhost).
 
-## Contoh: Rumus Elastisitas (Albert Einstein)
+## Contoh: Relativitas (Albert Einstein)
 $$E=mc^2$$
 Untuk menampilkan rumus seperti di atas saya menulis `$$E=mc^2$$` di markdown editor, contoh yang lain bisa anda lihat [disini](http://mathjax.org/demos/tex-samples/ "TeX Samples").
 
