@@ -62,7 +62,7 @@ Google Analytics adalah layanan gratis dari Google yang menampilkan statistik pe
 
 Jika anda menggunakan kode yang didapat dari situs web Google Analytics blog Jekyll anda yang di hosting di Github Pages tidak akan pernah terlacak `Status: Pelacakan Tidak Dipasang`, saya sendiri tidak tahu kenapa. Tapi menurut pendapat mas [@SunDi3yansyah](http://twitter.com/SunDi3yansyah) itu mungkin masalahnya di cache, karena jekyll adalah blog/situs web berupa halaman HTML statis, jadi google agak perlu waktu untuk membaca halaman update blog jekyll kita.
 
-**Hasilnya**
+## Hasilnya
 
 ![](/assets/IMG_1409191.png)
 
