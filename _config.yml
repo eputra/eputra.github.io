@@ -7,14 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Eka Putra
-tagline:          Catatan Eka Putra
+tagline:          'Learning, Programming, Jekylling, Blogging'
 url:              http://eka-putra.github.io
 paginate:         1
-baseurl:          /
+
 author:
   name:           Eka Putra
   url:            https://twitter.com/eka415
-  email:          ekaputtra@gmail.com
 
 # Custom vars
 version:          1.0.0
