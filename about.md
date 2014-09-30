@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Pantai Pangandaran 2014](/assets/IMG_3689.JPG "Pantai Pangandaran (2014)")
+![Pantai Pangandaran 2014](/assets/IMG_3689.jpg "Pantai Pangandaran (2014)")
 <div class="message">
   Saya sebelah kanan (baju putih)
 </div>
