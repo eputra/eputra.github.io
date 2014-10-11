@@ -7,7 +7,7 @@ permalink: kereta-maglev
 
 <script async class="speakerdeck-embed" data-id="6a2a94d033b80132573f121bd1ded631" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-Ini adalah salah satu tugas pelajaran Fisika di SMA kalau tidak salah. Daripada tulisan ini nganggur di hardisk saya lebih baik saya bagikan di blog ini siapa tahu bisa membantu yang sedang mempelajari teknologi Kerata Maglev ini sekalian saya juga mencoba ingin mencoba [Speakerdeck](http://speakerdeck.com "Speakerdeck") di blog saya :D
+Ini adalah salah satu tugas pelajaran Fisika di SMA kalau tidak salah. Daripada tulisan ini nganggur di hardisk lebih baik saya bagikan di blog ini siapa tau bisa membantu yang sedang mempelajari teknologi Kerata Maglev ini sekalian saya juga ingin mencoba [Speakerdeck](http://speakerdeck.com "Speakerdeck") di blog saya :D
 
 ![](/assets/maglev1.jpg)
 
