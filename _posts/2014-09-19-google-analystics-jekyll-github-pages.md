@@ -69,5 +69,3 @@ Jika anda menggunakan kode yang didapat dari situs web Google Analytics blog Jek
 ![](/assets/IMG_1409192.png)
 
 Happy Jekylling!
-
-{% include twitter.html %}
