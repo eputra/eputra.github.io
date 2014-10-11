@@ -76,5 +76,3 @@ $$E=mc^2$$
 Untuk menampilkan rumus seperti di atas saya menulis `$$E=mc^2$$` di markdown editor, contoh yang lain bisa anda lihat [disini](http://mathjax.org/demos/tex-samples/ "TeX Samples").
 
 Happy Jekylling!
-
-{% include twitter.html %}
