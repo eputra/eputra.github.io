@@ -12,7 +12,7 @@ Ini adalah salah satu tugas pelajaran Fisika di SMA, saya sekolah SMA di SMA Neg
 ![](/assets/maglev1.jpg)
 
 ## Pengertian Maglev
-Maglev adalah singkatan dari Magnetically Levitated Trains yang dalam terjemahan bebasnya adalah kereta api yang mengambang secara magnetis. Sering juga disebut kereta api magnet. Secara sederhana, kereta maglev adalah kereta tanpa roda yang menggunakan tenaga magnet untuk melayang, menggerakkan, dan mengontrol jalannya kereta. Kereta dengan teknologi itu sangat mungkin menggantikan transportasi massal dengan kecepatan yang tinggi, percepatan besar, efisiensi energi yang tinggi, dan ramah lingkungan.
+Maglev adalah singkatan dari Magnetically Levitated Trains yang dalam terjemahan bebasnya adalah kereta api yang mengambang secara magnetis. Sering juga disebut kereta api magnet. Secara sederhana, kereta maglev adalah kereta tanpa roda yang menggunakan tenaga magnet untuk melayang, menggerakkan, dan mengontrol jalannya kereta. Kereta dengan teknologi ini sangat mungkin menggantikan transportasi massal dengan kecepatan yang tinggi, percepatan besar, efisiensi energi yang tinggi, dan ramah lingkungan.
 
 
 ## Ada 3 komponen yang digunakan untuk membangun Maglev:
