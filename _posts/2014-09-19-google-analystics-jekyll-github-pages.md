@@ -6,8 +6,7 @@ permalink: google-analytics-jekyll-github-pages
 ---
 
 Google Analytics adalah layanan gratis dari Google yang menampilkan statistik pengunjung sebuah situs web. Google Analytics dapat menelusuri pengunjung berdasarkan informasi halaman pengacu, termasuk mesin pencari, iklan, jaringan pay-per-click, email marketing, dan juga tautan yang terkandung dalam dokumen PDF. Dengan Google Analytics, pengguna dapat mengetahui iklan dan kata kunci apa yang paling banyak merujuk ke situs web pengguna.
-
-> Sumber: [http://id.wikipedia.org/wiki/Google_Analytics](http://id.wikipedia.org/wiki/Google_Analytics)
+Sumber: [http://id.wikipedia.org/wiki/Google_Analytics](http://id.wikipedia.org/wiki/Google_Analytics)
 
 ## Cara Memasang Google Analyticst di Blog Jekyll Github Pages ##
 - Daftar Google Analytics [disini](http://www.google.com/analytics/)
