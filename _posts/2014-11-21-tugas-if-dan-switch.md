@@ -133,3 +133,5 @@ int main()
 Masukan angka [0 - 100] : 99
 Nilai tinggi
 {% endhighlight %}
+
+Happy Programming!
