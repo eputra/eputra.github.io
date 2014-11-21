@@ -5,13 +5,13 @@ comments: true
 permalink: tugas-if-dan-switch
 ---
 
-1. Buatlah program untuk mengkonversi nilai huruf menjadi nilai angka dengan ketentukan masukan berupa nilai huruf menggunakan intruksi IF dan SWITCH.
+1. Buatlah program untuk mengkonversi nilai huruf menjadi nilai angka dengan ketentuan masukan berupa nilai huruf menggunakan intruksi IF dan SWITCH.
 	* Nilai huruf : A -> Nilai angka : 4
 	* Nilai huruf : B -> Nilai angka : 3
 	* Nilai huruf : C -> Nilai angka : 2
 	* Nilai huruf : D -> Nilai angka : 1
 	* Nilai huruf : E -> Nilai angka : 0
-2. Buatlah program untuk menseleksi suatu bilangan menggunakan intruksi IF dan SWITCH.
+2. Buatlah program untuk menyeleksi suatu bilangan menggunakan intruksi IF dan SWITCH.
 	* 0 <= nilai < 30 : Nilai rendah
 	* 30 <= nilai < 60 : Nilai sedang
 	* 60 <= nilai <= 100 : Nilai tinggi
@@ -79,9 +79,9 @@ Masukan huruf [A - E] = A
 Nilai = 4
 {% endhighlight %}
 
-#### Menseleksi Suatu Bilangan Menggunakan IF
+#### Menyeleksi Suatu Bilangan Menggunakan IF
 {% highlight c %}
-//Menseleksi suatu bilangan
+//Menyeleksi suatu bilangan
 #include <stdio.h>
 int main()
 {
@@ -108,9 +108,9 @@ Masukan angka [0 - 100] : 99
 Nilai tinggi
 {% endhighlight %}
 
-#### Menseleksi Suatu Bilangan Menggunakan SWITCH
+#### Menyeleksi Suatu Bilangan Menggunakan SWITCH
 {% highlight c %}
-//Menseleksi suatu bilangan
+//Menyeleksi suatu bilangan
 #include <stdio.h>
 int main()
 {
