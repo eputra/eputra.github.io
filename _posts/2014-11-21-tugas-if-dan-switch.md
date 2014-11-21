@@ -5,7 +5,7 @@ comments: true
 permalink: tugas-if-dan-switch
 ---
 
-1. Buatlah program untuk mengkonversi nilai huruf menjadi nilai angka dengan ketentukan masukan berupa nilai huruf menggunakan inturksi IF dan SWITCH.
+1. Buatlah program untuk mengkonversi nilai huruf menjadi nilai angka dengan ketentukan masukan berupa nilai huruf menggunakan intruksi IF dan SWITCH.
 	* Nilai huruf : A -> Nilai angka : 4
 	* Nilai huruf : B -> Nilai angka : 3
 	* Nilai huruf : C -> Nilai angka : 2
