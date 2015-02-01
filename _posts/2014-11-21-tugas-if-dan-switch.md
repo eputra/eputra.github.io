@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tugas IF dan SWITCH
+title: Tugas Struktur Pemilihan (Condition) IF dan SWITCH
 comments: true
 permalink: tugas-if-dan-switch
 ---
