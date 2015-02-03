@@ -27,7 +27,7 @@ int main () {
 	cout<<"Input (3 Data)"<<endl;
 	cout<<"---------------------------------------------"<<endl;
 	for (int i=0; i<3; i++) {
-		cout<<"Nama				: "; cin.getline(mhs[i].nama, 99);
+		cout<<"Nama			: "; cin.getline(mhs[i].nama, 99);
 		cout<<"Alamat			: "; cin.getline(mhs[i].alamat, 99);
 		cout<<"TTL				: "; cin.getline(mhs[i].ttl, 99);
 		cout<<"Jenis Kelamin	: "; cin.getline(mhs[i].jk, 99);
@@ -125,11 +125,11 @@ int main () {
 	cout<<"Input (3 Data)"<<endl;
 	cout<<"---------------------------------------------"<<endl;
 	for (int i=0; i<3; i++) {
-		cout<<"Kode Buku	: "; cin.getline(dbk[i].kbuku, 99);
-		cout<<"Nama Buku	: "; cin.getline(dbk[i].nbuku, 99);
+		cout<<"Kode Buku		: "; cin.getline(dbk[i].kbuku, 99);
+		cout<<"Nama Buku		: "; cin.getline(dbk[i].nbuku, 99);
 		cout<<"Tahun Terbit	: "; cin.getline(dbk[i].tt, 99);
-		cout<<"Pengarang	: "; cin.getline(dbk[i].pg, 99);
-		cout<<"Harga		: "; cin.getline(dbk[i].hrg, 99);
+		cout<<"Pengarang		: "; cin.getline(dbk[i].pg, 99);
+		cout<<"Harga			: "; cin.getline(dbk[i].hrg, 99);
 		cout<<"---------------------------------------------"<<endl;
 	}
 	cout<<"\n\n\n";
