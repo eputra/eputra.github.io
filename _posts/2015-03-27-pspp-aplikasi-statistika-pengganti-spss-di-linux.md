@@ -21,6 +21,6 @@ Ketika saya mencoba PSPP versi 0.7.9 ini ada beberapa bug yang cukup menggangu m
 
 Saya ingin sekali menguasai aplikasi statistika ini baik itu SPSS maupun PSPP, karena dalam pikiran saya sepertinya orang yang menguasai aplikasi statistika akan dibayar mahal oleh perusahaan :D
 
-Untuk informasi lebih detil mengenai aplikasi PSPP ini anda bisa mengunjungi situs ini [https://www.gnu.org/software/pspp/](https://www.gnu.org/software/pspp/ "PSPP")
+Untuk informasi lebih lengkap mengenai aplikasi PSPP ini anda bisa mengunjungi situs resminya di [https://www.gnu.org/software/pspp/](https://www.gnu.org/software/pspp/ "PSPP")
 
 Happy Learning! and keep <3 FOSS
