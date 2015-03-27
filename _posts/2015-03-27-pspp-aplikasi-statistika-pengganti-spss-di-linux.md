@@ -5,7 +5,7 @@ comments: true
 permalink: pspp-aplikasi-statistika-pengganti-spss-di-linux
 ---
 
-Sebenarnya ada beberapa aplikasi statistika di Linux yang saya tahu seperti R, SOFA Statistics, ROOT, MacAnova dan PAW. Tapi saya lebih memilih PSPP karena di Universitas saya untuk praktikum statistika menggunakan SPSS jadi saya mencari aplikasi statiska yang tampilannya hampir mirip dengan SPSS. Alasannya supaya saya tidak canggung saat mempelajari aplikasi statiska di Linux karena sudah terbiasa dengan tampilan SPSS. Nama PSPP sendiri adalah plesetan dari SPSS.
+Sebenarnya ada beberapa aplikasi statistika di Linux yang saya tahu seperti R, SOFA Statistics, ROOT, MacAnova dan PAW. Tapi saya lebih memilih PSPP karena di Universitas saya untuk praktikum statistika menggunakan SPSS jadi saya mencari aplikasi statistika yang tampilannya hampir mirip dengan SPSS. Alasannya supaya saya tidak canggung saat mempelajari aplikasi statistika di Linux karena sudah terbiasa dengan tampilan SPSS. Nama PSPP sendiri adalah plesetan dari SPSS.
 
 # Tampilan PSPP
 ![PSPP](/assets/pspp1.png "PSPP")
