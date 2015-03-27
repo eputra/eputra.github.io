@@ -19,7 +19,7 @@ Walaupun tampilan PSPP dan SPSS hampir mirip tetapi cukup banyak fitur SPSS yang
 
 Ketika saya mencoba PSPP versi 0.7.9 ini ada beberapa bug yang cukup menggangu menurut saya. Pertama ketika di Variabel View saya harus dua kali memasukan nama variabel di Name karena ketika memasukan nama variabel pertama kali kadang-kadang nama variabel itu hilang sendiri dan ketika ingin mengganti nama variabel di Name itu tidak bisa variabel harus dihapus terlebih dahulu selanjutnya saya harus membuat kembali variabel dari awal dengan nama yang diinginkan, yang kedua ketika mencoba Analyze ketika saya ingin memasukan variabel ke Test Variabel atau Test Value kadang-kadang PSPP keluar sendiri.
 
-Saya ingin sekali menguasai aplikasi statistika ini baik itu SPSS maupun PSPP, karena dalam pikiran saya sepertinya orang yang menguasai aplikasi statistika akan dibayar mahal oleh perusahaan :D
+Saya berharap suatu saat nanti PSPP bisa menyamai atau bahkan melebihi SPSS dalam segala hal dan saya juga ingin sekali menguasai aplikasi statistika ini baik itu SPSS maupun PSPP, karena dalam pikiran saya sepertinya orang yang menguasai aplikasi statistika akan dibayar mahal oleh perusahaan :D
 
 Untuk informasi lebih lengkap mengenai aplikasi PSPP ini anda bisa mengunjungi situs resminya di [https://www.gnu.org/software/pspp/](https://www.gnu.org/software/pspp/ "PSPP")
 
