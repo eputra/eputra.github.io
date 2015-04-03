@@ -12,7 +12,7 @@ using namespace std;
 int main()
 {
 	int cari, ketemu, index, data[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-	cout<<"Angka yang mau dicari : ";
+	cout<<"Angka yang dicari : ";
 	cin>>cari;
 	for (int x=0; x<10; x++)
 	{
@@ -32,10 +32,10 @@ int main()
 {% highlight html %}
 [~]-> cd tugas/
 [~/tugas]-> ./linier
-Angka yang mau dicari : 9
+Angka yang dicari : 9
 Angka 9 ada di index 8
 [~/tugas]-> ./linier
-Angka yang mau dicari : 99
+Angka yang dicari : 99
 Angka 99 tidak ada
 {% endhighlight %}
 
