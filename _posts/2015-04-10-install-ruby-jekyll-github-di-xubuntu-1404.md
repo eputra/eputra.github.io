@@ -28,7 +28,7 @@ Menjalankan perintah `sudo gem install jekyll` ketika saya menginstall Jekyll in
 - `git config --global color.ui true`
 - `ssh-keygen -t rsa -C "your_email@youremail.com"` your_email@youremail.com diganti dengan email yang digunakan di GitHub, disini saya menekan enter-enter saja, karena saya juga kurang tau artinya :D
 - Membuka file `id_rsa.pub` yang ada di folder `/home/x43u/.ssh/`
-- Mengcopy semua isi `id_rsa.pub` ke web GitHub, masuk ke web GitHub lalu masuk ke `Account Settings -> SSH Keys -> Add SSH Key` Title diisi terserah sesuai keinginan
+- Mengcopy semua isi `id_rsa.pub` ke web GitHub, masuk ke web GitHub lalu masuk ke `Account Settings -> SSH Keys -> Add SSH Key` paste semua isi `id_rsa.pub` ke bagian Key dan Title diisi terserah sesuai keinginan
 - Terakhir klik `Add key`
 
 Happy Learning!
