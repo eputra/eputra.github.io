@@ -68,4 +68,4 @@ Jika anda menggunakan kode yang didapat dari situs web Google Analytics blog Jek
 
 Happy Jekylling!
 
-> Sumber: [http://id.wikipedia.org/wiki/Google_Analytics](http://id.wikipedia.org/wiki/Google_Analytics)
+> Referensi: [http://id.wikipedia.org/wiki/Google_Analytics](http://id.wikipedia.org/wiki/Google_Analytics)

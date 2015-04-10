@@ -92,4 +92,4 @@ Terakhir silahkan `reboot` lalu waktu `login` pilih `dwm` dengan cara menekan `F
 
 Happy Learning! and keep <3 Open Source
 
-> Sumber: [http://ellengummesson.com/blog/2013/08/10/installing-dwm-on-crunchbang-linux/](http://ellengummesson.com/blog/2013/08/10/installing-dwm-on-crunchbang-linux/ "Ellen Gummesson :: Installing dwm on Crunchbang Linux")
+> Referensi: [http://ellengummesson.com/blog/2013/08/10/installing-dwm-on-crunchbang-linux/](http://ellengummesson.com/blog/2013/08/10/installing-dwm-on-crunchbang-linux/ "Ellen Gummesson :: Installing dwm on Crunchbang Linux")
