@@ -5,7 +5,7 @@ comments: true
 permalink: install-ruby-jekyll-github-di-xubuntu-1404
 ---
 
-Ini hanya sekedar catatan saya karena saya suka lupa langkah-langkah menginstall ketiga aplikasi ini, padahal saya sangat butuh ketiga aplikasi ini untuk megurus blog ini. Dan mohon maaf jika saya tidak menjelaskan untuk apa saja perintah yang akan dijalankan karena saya juga masih belajar jadi tidak tau semua untuk apa fungsi perintah tersebut, tapi alhamdulillah berhasil di Xubuntu saya :D
+Ini hanya catatan saya karena saya suka lupa langkah-langkah menginstall ketiga aplikasi ini, padahal saya sangat butuh ketiga aplikasi ini untuk megurus blog ini. Dan mohon maaf jika saya tidak menjelaskan untuk apa saja perintah yang akan dijalankan karena saya juga masih belajar jadi tidak tau semua untuk apa fungsi perintah tersebut, tapi alhamdulillah berhasil di Xubuntu saya :D
 
 Biasanya saya menjalankan perintah `sudo apt-get install ruby ruby-dev make gcc nodejs` untuk menginstall Ruby dan `sudo gem install jekyll` untuk menginstall Jekyll tapi waktu kemarin saya mau menginstall Jekyll ternyata error karena Jekyll membutuhkan Ruby versi 2.0.0 sedangkan Ruby yang ada di repository Xubuntu versi 1.9 atau 1.8 kalau tidak salah yang pasti versinya di bawah 2.0.0 jadi saya harus menginstall Ruby secara manual.
 
