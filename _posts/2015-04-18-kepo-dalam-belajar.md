@@ -5,15 +5,15 @@ comments: true
 permalink: kepo-dalam-belajar
 ---
 
-KEPO singkatan dari Knowing Every Particular Object. Artinya lu pengen tau banget sesuatu secara detail. Sampe hal-hal yang sepele juga lu tanyain, pokonya banyak banget pertanyaan dikepala lu dan lu ingin tau itu sampe ke akar-akarnya.
+KEPO singkatan dari Knowing Every Particular Object. Artinya lu pengen tau banget sesuatu secara detail. Sampe hal-hal yang sepele juga lu tanyain, pokoknya banyak banget pertanyaan di kepala lu dan lu ingin tau itu sampe ke akar-akarnya.
 
 Sebenarnya gue udah lama pengen share tentang ini cuman gak tau harus dari mana mulainya dan gak tau nanti judul postingnya apa? (sampe kepikiran kesitu, serius). Akhirnya gue dapet ilham waktu belajar Kalkulus buat UTS kemarin.
 
-Di materi deret tak terhingga gue nemuin sebuah paradoks yang membuat gue KEPO sama Kalkulus. Saking KEPOnya gue sama Kalkulus sampe lupa sama pelajaran yang lain -_- (kebiasan kalau udah KEPO).
+Di materi deret tak terhingga gue nemuin sebuah paradoks yang membuat gue KEPO sama Kalkulus. Saking KEPOnya gue sama Kalkulus sampe lupa sama pelajaran yang lain -_- (kebiasaan kalau udah KEPO).
 
 Setelah selesai belajar gue merenung sejenak dan berpikir, kenapa gak dari kemarin-kemarin gue KEPO kaya gini sama Kalkulus. Pasti gue bisa lebih semangat lagi setiap kali ada jadwal Kalkulus, gak kaya kemarin setiap kali ada jadwal Kalkulus rasanya langsung ngantuk, hadeuh -_-
 
-Paradoks Zeno ini yang gue temuin kemarin waktu belajar materi deret tak terhingga yang membuat gue KEPO sama Kalkulus.
+Paradoks Zeno ini yang gue temuin kemarin waktu belajar materi deret tak terhingga dan membuat gue KEPO sama Kalkulus.
 
 Zeno mengatakan dalam suatu paradoks terkenal kira-kira 2400 tahun yang lalu bahwa seorang pelari tak mungkin dapat mengakhiri suatu pertandingan sebab ia harus berlari setengah jarak, kemudian setengah sisa jarak, kemudian setengah jarak yang masih tersisa dan seterusnya, untuk selamanya. Oleh karena waktu yang disediakan bagi pelari tersebut terhingga, maka ia tak mungkin mencakup ruas-ruas jarak yang banyaknya tak terhingga. Walaupun demikian kita mengetahui bahwa pelari-pelari selalu dapat mengakhiri pertandingan.
 
@@ -21,7 +21,7 @@ Coba lu perhatikan jarak pertandingan yang panjangnya 1 mil ini. Ruas jarak dala
 
 ![KEPO Belajar](/assets/kepo-belajar.png "KEPO Belajar")
 
-Dalam bahasa matematika, mengakhiri pertandingan berarti lu harus menghitung jumlahnya \\(\frac12+\frac14+\frac18+\frac{1}{16}+\frac{1}{32}+ . . .\\) yang tampaknya tak mungkin. Walaupun demikian lu harus ingat bahwa jumlah telah didefinisikan hanya untuk suku-suku yang terhingga banyaknya. “Jumlah tak terhingga” sampai saat ini belum ada definisinya.
+Dalam bahasa Matematika, mengakhiri pertandingan berarti lu harus menghitung jumlahnya \\(\frac12+\frac14+\frac18+\frac{1}{16}+\frac{1}{32}+ . . .\\) yang tampaknya tak mungkin. Walaupun demikian lu harus ingat bahwa jumlah telah didefinisikan hanya untuk suku-suku yang terhingga banyaknya. “Jumlah tak terhingga” sampai saat ini belum ada definisinya.
 
 Perhatikan jumlah parsial berikut:
 
@@ -46,8 +46,6 @@ $$
 & = 1
 \end{align}
 $$
-
-Ini didefinisikan sebagai nilai jumlah tak terhingga itu.
 
 Jadi apa saja yang membuat gue KEPO sama suatu pelajaran:
 
