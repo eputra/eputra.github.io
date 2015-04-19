@@ -27,9 +27,9 @@ int main () {
 	cout<<"Input (3 Data)"<<endl;
 	cout<<"---------------------------------------------"<<endl;
 	for (int i=0; i<3; i++) {
-		cout<<"Nama			: "; cin.getline(mhs[i].nama, 99);
-		cout<<"Alamat			: "; cin.getline(mhs[i].alamat, 99);
-		cout<<"TTL				: "; cin.getline(mhs[i].ttl, 99);
+		cout<<"Nama		: "; cin.getline(mhs[i].nama, 99);
+		cout<<"Alamat		: "; cin.getline(mhs[i].alamat, 99);
+		cout<<"TTL		: "; cin.getline(mhs[i].ttl, 99);
 		cout<<"Jenis Kelamin	: "; cin.getline(mhs[i].jk, 99);
 		cout<<"---------------------------------------------"<<endl;
 	}
@@ -78,19 +78,19 @@ int main () {
 ---------------------------------------------
 Input (3 Data)
 ---------------------------------------------
-Nama			: Eka Putra
-Alamat			: Cileuya
-TTL				: Kuningan, 14 November 1995
+Nama		: Eka Putra
+Alamat		: Cileuya
+TTL		: Kuningan, 14 November 1995
 Jenis Kelamin	: Laki-laki
 ---------------------------------------------
-Nama			: Suryana
-Alamat			: Cileuya
-TTL				: Kuningan, 9 Maret 1995
+Nama		: Suryana
+Alamat		: Cileuya
+TTL		: Kuningan, 9 Maret 1995
 Jenis Kelamin	: Laki-laki
 ---------------------------------------------
-Nama			: Dodi Riyanto
-Alamat			: Cileuya
-TTL				: Kuningan, 26 Januari 1995
+Nama		: Dodi Riyanto
+Alamat		: Cileuya
+TTL		: Kuningan, 26 Januari 1995
 Jenis Kelamin	: Laki-laki
 ---------------------------------------------
 
@@ -125,11 +125,11 @@ int main () {
 	cout<<"Input (3 Data)"<<endl;
 	cout<<"---------------------------------------------"<<endl;
 	for (int i=0; i<3; i++) {
-		cout<<"Kode Buku		: "; cin.getline(dbk[i].kbuku, 99);
-		cout<<"Nama Buku		: "; cin.getline(dbk[i].nbuku, 99);
+		cout<<"Kode Buku	: "; cin.getline(dbk[i].kbuku, 99);
+		cout<<"Nama Buku	: "; cin.getline(dbk[i].nbuku, 99);
 		cout<<"Tahun Terbit	: "; cin.getline(dbk[i].tt, 99);
-		cout<<"Pengarang		: "; cin.getline(dbk[i].pg, 99);
-		cout<<"Harga			: "; cin.getline(dbk[i].hrg, 99);
+		cout<<"Pengarang	: "; cin.getline(dbk[i].pg, 99);
+		cout<<"Harga		: "; cin.getline(dbk[i].hrg, 99);
 		cout<<"---------------------------------------------"<<endl;
 	}
 	cout<<"\n\n\n";
@@ -182,23 +182,23 @@ int main () {
 ---------------------------------------------
 Input (3 Data)
 ---------------------------------------------
-Kode Buku		: B001
-Nama Buku		: Debian
+Kode Buku	: B001
+Nama Buku	: Debian
 Tahun Terbit	: 2015
-Pengarang		: Eka Putra
-Harga			: IDR 50K       
+Pengarang	: Eka Putra
+Harga		: IDR 50K       
 ---------------------------------------------
-Kode Buku		: B002
-Nama Buku		: Slackware
+Kode Buku	: B002
+Nama Buku	: Slackware
 Tahun Terbit	: 2015
-Pengarang		: Suryana
-Harga			: IDR 50K
+Pengarang	: Suryana
+Harga		: IDR 50K
 ---------------------------------------------
-Kode Buku		: B003
-Nama Buku		: Gentoo
+Kode Buku	: B003
+Nama Buku	: Gentoo
 Tahun Terbit	: 2015
-Pengarang		: Dodi Riyanto
-Harga			: IDR 50K
+Pengarang	: Dodi Riyanto
+Harga		: IDR 50K
 ---------------------------------------------
 
 +---------------------------------------------------------------------------+
