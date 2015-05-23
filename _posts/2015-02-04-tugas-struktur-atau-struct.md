@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Tugas Struktur (Struct)
+description: Tugas cara membuat struktur atau struct menggunakan bahasa pemrogramman c++
+categories: c++
+date: 2015-02-04
+author: Eka Putra
 comments: true
 permalink: tugas-struktur-atau-struct
 ---
@@ -8,9 +12,9 @@ permalink: tugas-struktur-atau-struct
 1. Buat program untuk mencatat data mahasiswa yang terdiri dari field : Nama, Alamat, Tempat Tanggal Lahir, Jenis Kelamin
 2. Buatlah struct untuk data buku yang berisi tentang : Kode Buku, Nama Buku, Tahun Terbit, Pengarang dan Harga
 
-Note : Gunakan Array Of Struct
+NB : Gunakan Array Of Struct
 
-## Mencatat Data Mahasiswa
+###Mencatat Data Mahasiswa
 {% highlight c %}
 #include<iostream>
 #include<iomanip>
@@ -107,7 +111,7 @@ Jenis Kelamin	: Laki-laki
 +----------------+----------------+------------------------------+----------------+
 {% endhighlight %}
 
-## Data Buku
+###Data Buku
 {% highlight c %}
 #include<iostream>
 #include<iomanip>

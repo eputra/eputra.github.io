@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Tugas Tipe Data Turunan (Larik/Array)
+description: Tugas cara membuat tipe data turunan (larik atau array) menggunakan bahasa pemrogramman c++
+categories: c++
+date: 2015-02-02
+author: Eka Putra
 comments: true
 permalink: tugas-larik-atau-array
 ---
@@ -8,7 +12,7 @@ permalink: tugas-larik-atau-array
 1. Buatlah program yang menghitung jumlah elemen dalam suatu array (larik) dengan array (larik) 1 dimensi {1,3,5,4,7,2,99,16,45,67,89,45}
 2. Buatlah program untuk menampilkan data mahasiswa yang terdiri dari nim dan nama (minimal data adalah 5 data)
 
-## Menghitung Jumlah Elemen Array atau Larik
+###Menghitung Jumlah Elemen Array atau Larik
 {% highlight c %}
 #include<stdio.h>
 int main()
@@ -28,7 +32,7 @@ int main()
 Jumlah elemen = 383
 {% endhighlight %}
 
-## Menampilkan Data Mahasiswa NIM dan Nama
+###Menampilkan Data Mahasiswa NIM dan Nama
 {% highlight c %}
 #include<iostream>
 #include<string>

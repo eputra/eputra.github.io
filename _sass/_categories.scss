@@ -1,0 +1,17 @@
+// Asboot categories
+//
+// Eka Putra
+// https://github.com/eka-putra/asboot.github.io/_sass/_categories.scss
+
+.cat {
+    color: #fff;
+    padding: 2px 6px;
+    border-radius: 3px;
+    margin-right: 6px;
+    background-color: #268bd2;
+}
+
+a.cat:hover {
+  background-color: #01579b;
+  text-decoration: none;
+}

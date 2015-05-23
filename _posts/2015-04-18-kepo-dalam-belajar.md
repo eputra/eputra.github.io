@@ -1,7 +1,12 @@
 ---
 layout: post
 title: KEPO dalam Belajar
+categories: curhat
+description: Tips supaya belajar pelajaran sekolah menjadi asik dan menyenangkan
+date: 2015-04-18
+author: Eka Putra
 comments: true
+math: true
 permalink: kepo-dalam-belajar
 ---
 
@@ -64,6 +69,6 @@ Paradoks Zeno yang lain dan penjelasannya:
 2. [Permodelan Matematika - Zeno Paradox](https://www.zenius.net/blog/4110/model-matematika-zeno-paradox-penulisan-angka "Permodelan Matematika - Zeno Paradox")
 3. [Paradoks Zeno Melahirkan Penemuan Matematika Limit](http://apiqquantum.com/2013/08/28/5-paradoks-zeno-melahirkan-penemuan-matematika-limit/ "Paradoks Zeno Melahirkan Penemuan Matematika Limit")
 
-Note : Gaya penulisan kali ini juga dipengaruhi [@zeniuseducation](https://twitter.com/zeniuseducation "@zeniuseducation").
+Note: Gaya penulisan kali ini juga dipengaruhi [@zeniuseducation](https://twitter.com/zeniuseducation "@zeniuseducation").
 
 Happy Learning!

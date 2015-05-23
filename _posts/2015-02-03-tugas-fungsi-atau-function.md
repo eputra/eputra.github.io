@@ -1,13 +1,17 @@
 ---
 layout: post
 title: Tugas Fungsi (Function)
+description: Tugas cara membuat fungsi atau function menggunakan bahasa pemrogramman c++
+categories: c++
+date: 2015-02-03
+author: Eka Putra
 comments: true
 permalink: tugas-fungsi-atau-function
 ---
 
 Buatlah program untuk menentukan bilangan yang terbesar dan terkecil dari 2 buah bilangan yang diinputkan
 
-## Menentukan Bilangan Terbesar dan Terkecil Menggunakan Fungsi atau Function
+###Menentukan Bilangan Terbesar dan Terkecil Menggunakan Fungsi atau Function
 {% highlight c %}
 #include<stdio.h>
 int findmax (int max1, int max2);
@@ -70,13 +74,13 @@ void printmin (int pmin)
 [~]-> ./fungsi
 Masukan nilai pertama	: 1
 Masukan nilai kedua	: 2
-Nilai terbesar adalah	: 2
-Nilai terkecil adalah	: 1
+Nilai terbesar adalah : 2
+Nilai terkecil adalah : 1
 [~]-> ./fungsi
 Masukan nilai pertama	: 2
 Masukan nilai kedua	: 1
-Nilai terbesar adalah	: 2
-Nilai terkecil adalah	: 1
+Nilai terbesar adalah : 2
+Nilai terkecil adalah : 1
 [~]-> ./fungsi
 Masukan nilai pertama	: 1
 Masukan nilai kedua	: 1

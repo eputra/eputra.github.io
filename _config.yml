@@ -1,27 +1,39 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      pygments
-
 # Permalinks
-permalink:        pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
 # Setup
-title:            Eka Putra
-tagline:          'Learning, Programming, Jekylling, Blogging'
-url:              http://eka-putra.github.io
-paginate:         1
+title:               Eka Putra
+tagline:             Learning, Programming, Jekylling, Blogging
+url:                 http://eka-putra.github.io
+paginate:            10
+baseurl:             ""
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
 author:
-  name:           Eka Putra
-  url:            https://twitter.com/eka415
+  name:              Eka Putra
+  url:               https://twitter.com/eka415
+  email:             ekaputtra@gmail.com
 
 # Custom vars
-version:          1.0.0
+version:             1.0.0
 github:
-  repo:           https://github.com/eka-putra/eka-putra.github.io
+  repo:              https://github.com/eka-putra/eka-putra.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+  About: /about
+  Categories: /categories
+
+# Plugin
+gems:
+  - jekyll-sitemap 

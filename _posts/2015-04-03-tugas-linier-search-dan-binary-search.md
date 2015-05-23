@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Tugas Linier Search dan Binary Search
+description: Tugas cara membuat linier search dan binary search menggunakan bahasa pemrogramman c++
+categories: c++
+date: 2015-04-03
+author: Eka Putra
 comments: true
 permalink: tugas-linier-search-dan-binary-search
 ---
 
-# Linier Search
+###Linier Search
 {% highlight c %}
 #include<iostream>
 using namespace std;
@@ -39,7 +43,7 @@ Angka yang dicari : 99
 Angka 99 tidak ada
 {% endhighlight %}
 
-# Binary Search
+###Binary Search
 {% highlight c %}
 #include<iostream>
 using namespace std;

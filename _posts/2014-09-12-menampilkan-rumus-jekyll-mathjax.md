@@ -1,13 +1,18 @@
 ---
 layout: post
 title: Menampilkan Rumus di Jekyll dengan MathJax
+categories: jekyll
+description: Cara menampilkan rumus di blog jekyll dengan mathjax
+date: 2014-09-12
+author: Eka Putra
 comments: true
+math: true
 permalink: menampilkan-rumus-jekyll-mathjax
 ---
 
 Dengan menggunakan MathJax kita bisa menampilkan rumus matematika, fisika dan kimia di blog Jekyll offline (localhost) maupun online. MathJax sendiri adalah sebuah proyek opensource yang menggunakan JavaScript untuk menampilkan persamaan matematika di browser. Dengan menambahkan script dari MathJax kita bisa menampilkan lambang-lambang, persamaan, fungsi dan grafik matematika di blog kita dengan mudah.
 
-## Blog Jekyll Offline (localhost)
+###Blog Jekyll Offline (localhost)
 Cara menampilkan rumus di blog jekyll offline (localhost) dengan mathjax:
 
 - Download mathjax [disini](http://docs.mathjax.org/en/latest/installation.html "Download MathJax"), ekstrak mathjax di folder blog jekyll anda dan rename menjadi `math`
@@ -60,7 +65,7 @@ src="http://localhost:4000/math/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 {% endraw %}
 {% endhighlight %}
 
-## Blog Jekyll Online
+###Blog Jekyll Online
 Untuk menampilkan rumus di blog jekyll online dengan mathjax anda tidak perlu mendownload mathjax, anda hanya perlu membuat file `math.html` simpan di folder `_includes`
 
 {% highlight html %}
@@ -71,10 +76,10 @@ src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorM
 
 Edit file `defaul.html` dan tambahkan kode `{% raw %}{% include math.html %}{% endraw %}` seperti di blog jekyll offline (localhost).
 
-## Contoh: Relativitas (Albert Einstein)
+###Contoh: Relativitas (Albert Einstein)
 
 $$E=mc^2$$
 
-Untuk menampilkan rumus seperti di atas saya menulis `$$E=mc^2$$` di markdown editor, contoh yang lain bisa anda lihat [disini](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference "MathJax basic tutorial and quick reference").
+Untuk menampilkan rumus seperti di atas saya menulis `$$E=mc^2$$` di markdown editor, contoh yang lain bisa anda lihat [disini](http://mathjax.org/demos/tex-samples/ "TeX Samples").
 
 Happy Jekylling!
