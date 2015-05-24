@@ -6,6 +6,7 @@ description: Kategori blognya si Eka Putra
 
 {% assign sorted_cats = site.categories | sort %}
 {% for cat in sorted_cats %}
+
 <span id="{{ cat[0] }}" class="cat">{{ cat[0] }}</span>
 <div class="post-list">
 	{% for post in cat[1] %}
