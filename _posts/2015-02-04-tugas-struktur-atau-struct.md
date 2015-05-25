@@ -12,7 +12,7 @@ permalink: tugas-struktur-atau-struct
 1. Buat program untuk mencatat data mahasiswa yang terdiri dari field : Nama, Alamat, Tempat Tanggal Lahir, Jenis Kelamin
 2. Buatlah struct untuk data buku yang berisi tentang : Kode Buku, Nama Buku, Tahun Terbit, Pengarang dan Harga
 
-NB : Gunakan Array Of Struct
+<small><span class="box warning small">Note</span></small>Gunakan Array Of Struct
 
 ###Mencatat Data Mahasiswa
 {% highlight c %}

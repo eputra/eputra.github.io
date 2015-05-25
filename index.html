@@ -13,12 +13,10 @@ description: Blognya si Eka Putra yang suka Learning, Programming, Jekylling, Bl
         {{ post.title }}
       </a>
     <br>
-    <small>
-      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-      {% for cat in post.categories %}
-        <a class="cat" href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
-      {% endfor %}
-    </small>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date small">{{ post.date | date_to_string }}</time>
+    {% for cat in post.categories %}
+      <a class="cat small" href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>
+    {% endfor %}
   {% endfor %}
 </li>
 </div>

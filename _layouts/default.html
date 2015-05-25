@@ -2,25 +2,25 @@
 <html lang="en">
   {% include head.html %}
   <body>
-     <div class="container content">
-      <header class="masthead clearfix">
-          <h3 class="masthead-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h3>
-          <nav>
-            {% for page in site.pages_list %}
-              &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1] }}">{{ page[0] }}</a></small>
-            {% endfor %}
-          </nav>
-      </header>
-      <main>
-        {{ content }}
-      </main>
-    </div>
-    <footer class="footer">
-      <small>
+    <div class="wrapper">
+      <div class="container content">
+        <header class="masthead clearfix">
+            <h3 class="masthead-title"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h3>
+            <nav>
+              {% for page in site.pages_list %}
+                &nbsp;&nbsp;&nbsp;<small><a href="{{ page[1] }}">{{ page[0] }}</a></small>
+              {% endfor %}
+            </nav>
+        </header>
+        <main>
+          {{ content }}
+        </main>
+      </div>
+      <footer class="footer small">
         Crafted with &lt;3 by <a href="http://eka-putra.github.io">Eka Putra</a> (<a href="https://twitter.com/eka415">@eka415</a>).<br>
         &lt;/&gt; available on <a href="https://github.com/eka-putra/eka-putra.github.io">GitHub</a>.
-      </small>
-    </footer>
+      </footer>
+    </div>
     {% include math.html %}
     <script type="text/javascript">
       var _gaq = _gaq || [];
