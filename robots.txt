@@ -1,2 +1,3 @@
 User-agent: *
-Sitemap: /sitemap.xml
+Sitemap: http://eka-putra.github.io/sitemap.xml
+Disallow: http://eka-putra.github.io/page/*
