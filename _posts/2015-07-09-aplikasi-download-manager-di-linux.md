@@ -59,12 +59,25 @@ Menggunakan pip
 sudo pip install youtube-dl
 {% endhighlight %}
 
+<span class="box notice small">Update</span>10 Jul 2015<br>
+youtube-dl sudah tersedia di repo. Jadi anda bisa menginstall youtube-dl seperti menginstall aplikasi pada umumnya, contohnya untuk distro keluarga Ubuntu. Anda bisa mengistall youtube-dl menggukan Ubuntu Software Center.
+
+![youtube-dl](/assets/youtube-dl3.png "youtube-dl")
+
+Atau menggunakan terminal.
+
+{% highlight html %}
+sudo apt-get install youtube-dl
+{% endhighlight %}
+
+Untuk distro lain seperti Fedora, menyesuaikan paket manajemennya. Terimakasih infonya [Mas Hudi](http://mashudisudonym.github.io/ "Mas Hudi") :D
+
 ### Cara Menggunakan youtube-dl
 Menggunakan youtube-dl juga sangat mudah anda tinggal menjalankan perintah `youtube-dl [url video youtube]` di terminal anda dan videopun akan terdownload.
 
 ![youtube-dl](/assets/youtube-dl.png "youtube-dl")
 
-youtube-dl juga dapat mendownload video di YouTube dengan kulaitas dan format yang anda inginkan, caranya dengan menjalankan perintah `youtube-dl -F [url video youtube]` untuk melihat kualitas dan format apa saja yang tersedia dan `youtube-dl -f [nomor kualitas atau format video] [url video youtube]` untuk mendownload videonya.
+youtube-dl juga bisa mendownload video di YouTube dengan kulaitas dan format yang anda inginkan, caranya dengan menjalankan perintah `youtube-dl -F [url video youtube]` untuk melihat kualitas dan format apa saja yang tersedia dan `youtube-dl -f [nomor kualitas atau format video] [url video youtube]` untuk mendownload videonya.
 
 ![youtube-dl](/assets/youtube-dl2.png "youtube-dl")
 
