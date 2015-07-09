@@ -70,7 +70,7 @@ Atau menggunakan terminal.
 sudo apt-get install youtube-dl
 {% endhighlight %}
 
-Untuk distro lain seperti Fedora, menyesuaikan paket manajemennya. Terimakasih infonya [Mas Hudi](http://mashudisudonym.github.io/ "Mas Mashudi") :D
+Untuk distro lain seperti Fedora, menyesuaikan paket manajemennya. Terimakasih infonya [Mas Mashudi](http://mashudisudonym.github.io/ "Mas Mashudi") :D
 
 ### Cara Menggunakan youtube-dl
 Menggunakan youtube-dl juga sangat mudah anda tinggal menjalankan perintah `youtube-dl [url video youtube]` di terminal anda dan videopun akan terdownload.
