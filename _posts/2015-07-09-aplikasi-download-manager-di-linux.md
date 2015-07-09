@@ -60,7 +60,7 @@ sudo pip install youtube-dl
 {% endhighlight %}
 
 <span class="box notice small">Update</span>10 Jul 2015<br>
-youtube-dl sudah tersedia di repo. Jadi anda bisa menginstall youtube-dl seperti menginstall aplikasi pada umumnya, contohnya untuk distro keluarga Ubuntu. Anda bisa mengistall youtube-dl menggukan Ubuntu Software Center.
+youtube-dl sudah tersedia di repo. Jadi anda bisa menginstall youtube-dl seperti menginstall aplikasi pada umumnya, contohnya untuk distro Ubuntu. Anda bisa mengistall youtube-dl menggukan Ubuntu Software Center.
 
 ![youtube-dl](/assets/youtube-dl3.png "youtube-dl")
 
