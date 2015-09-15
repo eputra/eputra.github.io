@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Untuk Apa Kita Hidup di Dunia?
-categories: curhat
+categories: bebas
 date: 2015-06-17
 author: Eka Putra
 comments: true

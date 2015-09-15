@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KEPO dalam Belajar
-categories: curhat
+categories: bebas
 description: Tips supaya belajar pelajaran sekolah menjadi asik dan menyenangkan
 date: 2015-04-18
 author: Eka Putra
