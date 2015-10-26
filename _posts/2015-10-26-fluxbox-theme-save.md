@@ -54,14 +54,14 @@ chmod +x /home/$user/.fluxbox/themes/$style/$style
 - Buat `fluxbox-ts` executable dengan menjalankan perintah `chmod +x fluxbox-ts` 
 - Simpan `fluxbox-ts` di folder `/usr/bin`
 
-## Cara menggunakan `fluxbox-ts`
+## Cara Menggunakan `fluxbox-ts`
 - Buat folder `themes` di folder `/home/user_name/.fluxbox` dengan menjalankan perintah `mkdir /home/user_name/.fluxbox/themes`
 - Setting tampilan fluxbox semaksimal mungkin
 - Dan jalankan perintah `fluxbox-ts` untuk menyimpan theme yang sekarang digunakan
 
 Misalkan kita mengganti style fluxbox kita dan mengedit file init, mengganti tema gtk, icon, dan wallpaper. Dan kita ingin kembali ke theme sebelumnya yang sudah di save, anda tinggal menjalan bash script yang ada di folder `/home/user_name/.fluxbox/themes/style_name`.
 
-Selanjutnya kita tinggal logut lalu login kembali ke fluxbox dan tampilan fluxbox kita akan sama dengan theme fluxbox yang telah kita save sebelumnya tanpa harus mengedit file init, mengganti tema gtk, icon, dan wallpaper.
+Selanjutnya kita tinggal log out lalu log in kembali ke fluxbox dan tampilan fluxbox kita akan sama dengan theme fluxbox yang telah kita save sebelumnya tanpa harus mengedit file init, mengganti tema gtk, icon, dan wallpaper.
 
 `fluxbox-ts` juga ada di [GitHub](https://github.com/eka-putra/fluxbox-ts "fluxbox-ts"), jika ada yang salah atau kurang dari `fluxbox-ts` anda bisa open issue atau pull request.
 
