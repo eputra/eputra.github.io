@@ -45,6 +45,7 @@ Seperti namanya youtube-dl ini aplikasi untuk mendownload video di YouTube, ini 
 Ada beberapa cara untuk menginstall youtube-dl ini
 
 Menggunakan curl
+
 <div class="console">
 <pre>
 <span class="ps1">$</span> sudo curl https://yt-dl.org/latest/youtube-dl -o /usr/local/bin/youtube-dl
@@ -53,6 +54,7 @@ Menggunakan curl
 </div>
 
 Menggunakan wget
+
 <div class="console">
 <pre>
 <span class="ps1">$</span> sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
@@ -61,6 +63,7 @@ Menggunakan wget
 </div>
 
 Menggunakan pip
+
 <div class="console">
 <pre>
 <span class="ps1">$</span> sudo pip install youtube-dl
