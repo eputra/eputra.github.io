@@ -33,15 +33,17 @@ int main()
 	return 0;
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./linier
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./linier
 Angka yang dicari : 9
 Angka 9 ada di index 8
-[~/tugas]-> ./linier
+<span class="ps1">$</span> ./linier
 Angka yang dicari : 99
 Angka 99 tidak ada
-{% endhighlight %}
+</pre>
+</div>
 
 ###Binary Search
 {% highlight c %}
@@ -77,14 +79,16 @@ int main()
 	return 0;
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./binary
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./binary
 Angka yang dicari : 9
 Angka 9 ada di index 8
-[~/tugas]-> ./binary
+<span class="ps1">$</span> ./binary
 Angka yang dicari : 99
 Angka 99 tidak ada
-{% endhighlight %}
+</pre>
+</div>
 
 Happy Programming!

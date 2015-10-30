@@ -36,14 +36,16 @@ int main()
 	return 0;
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./while
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./while
 Masukan banyaknya data = 2
 Masukan data ke 1 = 3
 Masukan data ke 2 = 4
 Rata-rata data = 3.500000
-{% endhighlight %}
+</pre>
+</div>
 
 ###Menjumlahkan n Buah Data Ganjil Menggunakan DO-WHILE
 {% highlight c %}
@@ -71,14 +73,16 @@ int main()
 	return 0;
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./do_while
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./do_while
 Masukan banyaknya data = 3
 Masukan data ke 1 = 1
 Masukan data ke 2 = 2
 Masukan data ke 3 = 3
 Jumlah data ganjil = 4
-{% endhighlight %}
+</pre>
+</div>
 
 Happy Programming!

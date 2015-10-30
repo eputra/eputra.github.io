@@ -68,23 +68,24 @@ void printmin (int pmin)
 	printf ("Nilai terkecil adalah : %d\n", pmin);
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./fungsi
-[~]-> ./fungsi
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./fungsi
 Masukan nilai pertama	: 1
 Masukan nilai kedua	: 2
 Nilai terbesar adalah : 2
 Nilai terkecil adalah : 1
-[~]-> ./fungsi
+<span class="ps1">$</span> ./fungsi
 Masukan nilai pertama	: 2
 Masukan nilai kedua	: 1
 Nilai terbesar adalah : 2
 Nilai terkecil adalah : 1
-[~]-> ./fungsi
+<span class="ps1">$</span> ./fungsi
 Masukan nilai pertama	: 1
 Masukan nilai kedua	: 1
 Nilai yang anda masukan bernilai sama
-{% endhighlight %}
+</pre>
+</div>
 
 Happy Programming!

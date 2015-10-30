@@ -21,8 +21,12 @@ Cara saya mengatasi masalah ini adalah dengan menghilangkan mpd dari daftar apli
 
 Setelah saya browsing saya menemukan tulisan ini [MPD - Community Help Wiki](https://help.ubuntu.com/community/MPD "MPD - Community Help Wiki"), jadi untuk menghilangkan mpd dari daftar aplikasi autostart kita bisa dengan menjalankan perintah ini di terminal.
 
-`sudo service mpd stop`<br>
-`sudo update-rc.d mpd disable`
+<div class="console">
+<pre>
+<span class="ps1">$</span> sudo service mpd stop
+<span class="ps1">$</span> sudo update-rc.d mpd disable
+</pre>
+</div>
 
 Dan ini ada script kecil untuk menjalankan ncmpcpp dan mpd, agar ketika anda akan memutar musik di ncmpcpp, tidak harus mengetik dua kali/menjalankan dua perintah di terminal (pertama menjalankan mpd lalu ncmpcpp), jadi anda hanya perlu menjalankan satu perintah di terminal.
 
@@ -42,7 +46,21 @@ else
 fi
 {% endhighlight %}
 
-Saya beri nama `musik` untuk script di atas, dan jangan lupa untuk membuat script `musik` executable dengan menjalankan perintah `chmod +x musik`. Simpan script `musik` di folder `/usr/bin`. Sekarang dengan menggunakan script `musik` jika anda ingin memutar musik di ncmpcpp anda hanya perlu mengetik satu kali/menjalankan satu perintah di terminal yaitu hanya `musik` :D
+Saya beri nama `musik` untuk script di atas, dan jangan lupa untuk membuat script `musik` executable dengan menjalankan perintah
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> chmod +x musik
+</pre>
+</div>
+
+Simpan script `musik` di folder `/usr/bin`. Sekarang dengan menggunakan script `musik` jika anda ingin memutar musik di ncmpcpp anda hanya perlu mengetik satu kali/menjalankan satu perintah di terminal yaitu hanya
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> musik
+</pre>
+</div>
 
 Happy Learning!
 

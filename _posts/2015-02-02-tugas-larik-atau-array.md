@@ -26,11 +26,13 @@ int main()
 	return 0;
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./array1
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./array1
 Jumlah elemen = 383
-{% endhighlight %}
+</pre>
+</div>
 
 ###Menampilkan Data Mahasiswa NIM dan Nama
 {% highlight c %}
@@ -54,9 +56,10 @@ int main()
 	return 0;
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./array2
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./array2
 ---------------------------
         Nama	NIM
 ---------------------------
@@ -66,6 +69,7 @@ Dodi Riyanto	2014081051
     Kuswanto	2014081052
         Nunu	2014081053
 ---------------------------
-{% endhighlight %}
+</pre>
+</div>
 
 Happy Programming!

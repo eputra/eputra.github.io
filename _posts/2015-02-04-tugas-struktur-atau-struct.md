@@ -76,9 +76,10 @@ int main () {
 	}
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./struct1
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./struct1
 ---------------------------------------------
 Input (3 Data)
 ---------------------------------------------
@@ -109,7 +110,8 @@ Jenis Kelamin	: Laki-laki
 +----------------+----------------+------------------------------+----------------+
 |Dodi Riyanto    |Cileuya         |Kuningan, 26 Januari 1995     |Laki-laki       |
 +----------------+----------------+------------------------------+----------------+
-{% endhighlight %}
+</pre>
+</div>
 
 ###Data Buku
 {% highlight c %}
@@ -180,9 +182,10 @@ int main () {
 	}
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./struct2
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./struct2
 ---------------------------------------------
 Input (3 Data)
 ---------------------------------------------
@@ -216,6 +219,7 @@ Harga		: IDR 50K
 +----------+-----------------------+--------------+--------------+----------+
 |B003      |Gentoo                 |2015          |Dodi Riyanto  |IDR 50K   |
 +----------+-----------------------+--------------+--------------+----------+
-{% endhighlight %}
+</pre>
+</div>
 
 Happy Programming!

@@ -44,12 +44,14 @@ int main()
 	return 0;
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./if
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./if
 Masukan huruf [A - E] = A
 Nilai = 4
-{% endhighlight %}
+</pre>
+</div>
 
 ###Konversi Nilai Huruf Menjadi Nilai Angka Menggunakan SWITCH
 {% highlight c %}
@@ -72,12 +74,14 @@ int main()
 	return 0;
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./switch
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./switch
 Masukan huruf [A - E] = A
 Nilai = 4
-{% endhighlight %}
+</pre>
+</div>
 
 ###Menyeleksi Suatu Bilangan Menggunakan IF
 {% highlight c %}
@@ -99,12 +103,14 @@ int main()
 	return 0;
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./if2
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./if2
 Masukan angka [0 - 100] : 99
 Nilai tinggi
-{% endhighlight %}
+</pre>
+</div>
 
 ###Menyeleksi Suatu Bilangan Menggunakan SWITCH
 {% highlight c %}
@@ -125,11 +131,13 @@ int main()
 	return 0;
 }
 {% endhighlight %}
-{% highlight html %}
-[~]-> cd tugas/
-[~/tugas]-> ./switch2
+
+<div class="console">
+<pre>
+<span class="ps1">$</span> ./switch2
 Masukan angka [0 - 100] : 99
 Nilai tinggi
-{% endhighlight %}
+</pre>
+</div>
 
 Happy Programming!

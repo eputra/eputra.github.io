@@ -29,7 +29,8 @@ pre code {
 }
 
 // Pygments via Jekyll
-.highlight {
+.highlight,
+.console {
   padding: 1rem;
   margin-bottom: 1rem;
   font-size: 13px;
@@ -40,6 +41,10 @@ pre code {
   pre {
     margin-bottom: 0;
     overflow-x: auto;
+  }
+
+  .ps1 {
+    color: #f99157
   }
 
   .lineno {
