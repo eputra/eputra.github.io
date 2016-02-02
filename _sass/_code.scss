@@ -31,8 +31,11 @@ pre code {
 // Pygments via Jekyll
 .highlight,
 .console {
+  width: 100%;
   padding: 1rem;
   margin-bottom: 1rem;
+  margin-left: 0;
+  margin-right: 0;
   font-size: 13px;
   line-height: 1.4;
   background-color: #f9f9f9;
