@@ -54,7 +54,7 @@ chmod +x /home/$user/.fluxbox/themes/$style/$style
 - Buat `fluxbox-ts` executable dengan menjalankan perintah `chmod +x fluxbox-ts` 
 - Simpan `fluxbox-ts` di folder `/usr/bin`
 
-## Cara Menggunakan `fluxbox-ts`
+### Cara Menggunakan `fluxbox-ts`
 - Buat folder `themes` di folder `/home/user_name/.fluxbox` dengan menjalankan perintah `mkdir /home/user_name/.fluxbox/themes`
 - Setting tampilan fluxbox semaksimal mungkin
 - Dan jalankan perintah `fluxbox-ts` untuk menyimpan theme yang sekarang digunakan

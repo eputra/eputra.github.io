@@ -12,7 +12,7 @@ permalink: tugas-while-dan-do-while
 1. Buatlah program untuk menjumlahkan n buah data, dengan n merupakan masukan dari piranti masukan kemudian hitungah rata-ratanya menggunakan intruksi WHILE
 2. Buatlah program untuk menjumlahkan n buah data, tetapi yang dijumlahkan hanya data ganjil menggunakan intruksi DO-WHILE
 
-###Menjumlahkan n Buah Data dan Menghitung Rata-ratanya Menggunakan WHILE
+### Menjumlahkan n Buah Data dan Menghitung Rata-ratanya Menggunakan WHILE
 {% highlight c %}
 //Menjumlahkan data dan menghitung rata-ratanya
 #include<stdio.h>
@@ -47,7 +47,7 @@ Rata-rata data = 3.500000
 </pre>
 </div>
 
-###Menjumlahkan n Buah Data Ganjil Menggunakan DO-WHILE
+### Menjumlahkan n Buah Data Ganjil Menggunakan DO-WHILE
 {% highlight c %}
 //Menjumlahkan data ganjil
 #include<stdio.h>

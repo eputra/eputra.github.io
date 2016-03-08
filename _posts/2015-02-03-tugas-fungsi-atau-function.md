@@ -11,7 +11,7 @@ permalink: tugas-fungsi-atau-function
 
 Buatlah program untuk menentukan bilangan yang terbesar dan terkecil dari 2 buah bilangan yang diinputkan
 
-###Menentukan Bilangan Terbesar dan Terkecil Menggunakan Fungsi atau Function
+### Menentukan Bilangan Terbesar dan Terkecil Menggunakan Fungsi atau Function
 {% highlight c %}
 #include<stdio.h>
 int findmax (int max1, int max2);

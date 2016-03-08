@@ -11,12 +11,12 @@ permalink: install-dwm-di-crunchbang
 
 DWM singkatan dari Dynamic Windows Manager adalah sebuah tiling yang dibuat menggunakan bahasa pemrograman C, itu salah satu alasan kenapa saya memilih DWM untuk tiling di CrunchBang selain berukuran kecil juga karena dibuat menggunakan bahasa pemrograman C, karena kemarin di semester 1 bahasa pemrograman yang dipelajari yaitu C++ hampir miriplah dengan C, saya tidak ingin ilmu itu sia-sia ya walaupun masih ngedit-ngedit config punya orang :3
 
-###Instalasi
+### Instalasi
 - Pertama install `acpi` terlebih dahulu `acpi` ini berguna untuk menampilkan status battery di statusbar DWM nanti `sudo apt-get install acpi`
 - Download DWM dan confignya yang saya gunakan [disini](http://moeenn.deviantart.com/art/DWM-October-14-Shot-491561778 "Download DWM"), untuk `config.h`-nya ganti dengan config punya saya [disini](https://gist.github.com/eka-putra/10a43bc8745469b79aa9 "Download config.h")
 - Ekstrak lalu install DWMnya `sudo make clean install`
 
-###Startup Script
+### Startup Script
 Buat file dengan nama `dwm-startup` buat file ini executable `chmod +x dwm-starup` simpan di `/usr/bin`
 {% highlight bash %}
 #!/usr/bin/env bash
@@ -36,7 +36,7 @@ while true; do
 done & exec dwm
 {% endhighlight %}
 
-###X
+### X
 Buat file dengan nama `.xinitrc` buat file ini executable `chmod +x .xinitrc` simpan di `/home/username/`
 {% highlight bash %}
 #!/usr/bin/env bash
@@ -58,7 +58,7 @@ case $1 in
 esac
 {% endhighlight %}
 
-###SLiM
+### SLiM
 Sekarang atur SLiM agar ketika boot mengexecute `.initrc`
 
 - Buka `slim.conf` di folder `/etc`

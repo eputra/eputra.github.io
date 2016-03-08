@@ -14,7 +14,7 @@ permalink: tugas-struktur-atau-struct
 
 <small><span class="box warning small">Note</span></small>Gunakan Array Of Struct
 
-###Mencatat Data Mahasiswa
+### Mencatat Data Mahasiswa
 {% highlight c %}
 #include<iostream>
 #include<iomanip>
@@ -113,7 +113,7 @@ Jenis Kelamin	: Laki-laki
 </pre>
 </div>
 
-###Data Buku
+### Data Buku
 {% highlight c %}
 #include<iostream>
 #include<iomanip>

@@ -12,7 +12,7 @@ permalink: tugas-larik-atau-array
 1. Buatlah program yang menghitung jumlah elemen dalam suatu array (larik) dengan array (larik) 1 dimensi {1,3,5,4,7,2,99,16,45,67,89,45}
 2. Buatlah program untuk menampilkan data mahasiswa yang terdiri dari nim dan nama (minimal data adalah 5 data)
 
-###Menghitung Jumlah Elemen Array atau Larik
+### Menghitung Jumlah Elemen Array atau Larik
 {% highlight c %}
 #include<stdio.h>
 int main()
@@ -34,7 +34,7 @@ Jumlah elemen = 383
 </pre>
 </div>
 
-###Menampilkan Data Mahasiswa NIM dan Nama
+### Menampilkan Data Mahasiswa NIM dan Nama
 {% highlight c %}
 #include<iostream>
 #include<string>

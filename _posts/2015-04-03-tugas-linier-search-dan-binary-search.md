@@ -9,7 +9,7 @@ comments: true
 permalink: tugas-linier-search-dan-binary-search
 ---
 
-###Linier Search
+### Linier Search
 {% highlight c %}
 #include<iostream>
 using namespace std;
@@ -45,7 +45,7 @@ Angka 99 tidak ada
 </pre>
 </div>
 
-###Binary Search
+### Binary Search
 {% highlight c %}
 #include<iostream>
 using namespace std;

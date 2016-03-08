@@ -13,19 +13,19 @@ Ini hanya catatan saya karena saya suka lupa langkah-langkah menginstall ketiga 
 
 Biasanya saya menjalankan perintah `sudo apt-get install ruby ruby-dev make gcc nodejs` untuk menginstall Ruby dan `sudo gem install jekyll` untuk menginstall Jekyll tapi waktu kemarin saya mau menginstall Jekyll ternyata error karena Jekyll membutuhkan Ruby versi 2.0.0 sedangkan Ruby yang ada di repository Xubuntu versi 1.9 atau 1.8 kalau tidak salah yang pasti versinya di bawah 2.0.0 jadi saya harus menginstall Ruby secara manual.
 
-###Instalasi Ruby versi 2.0.0
+### Instalasi Ruby versi 2.0.0
 - Menjalankan perintah `sudo apt-get install build-essential zlib1g-dev libssl-dev libreadline6-dev libyaml-dev`
 - Mendownload Ruby versi 2.0.0 di [https://www.ruby-lang.org](https://www.ruby-lang.org "Ruby")
 - Mengekstrak file Ruby-nya
 - Masuk ke folder file Ruby yang tadi diekstrak menggunakan terminal
 - Menjalankan perintah `./configure --prefix=/usr/local` lalu `make` terakhir `sudo make install`
 
-###Instalasi Jekyll
+### Instalasi Jekyll
 Menjalankan perintah `sudo gem install jekyll` ketika saya menginstall Jekyll ini, Jekyll ada di versi 2.5.3
 
 ![Ruby Jekyll](/assets/ruby-jekyll.png "Ruby Jekyll")
 
-###Instalasi GitHub
+### Instalasi GitHub
 - Menjalankan perintah `sudo apt-get install git-core git-gui git-doc gitg`
 - `git config --global user.name "Full Name"` Full Name diganti dengan nama yang digunakan di GitHub
 - `git config --global user.email "your_email@youremail.com"` your_email@youremail.com diganti dengan email yang digunakan di GitHub

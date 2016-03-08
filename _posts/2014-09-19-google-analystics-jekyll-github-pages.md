@@ -11,7 +11,7 @@ permalink: google-analytics-jekyll-github-pages
 
 Google Analytics adalah layanan gratis dari Google yang menampilkan statistik pengunjung sebuah situs web. Google Analytics dapat menelusuri pengunjung berdasarkan informasi halaman pengacu, termasuk mesin pencari, iklan, jaringan pay-per-click, email marketing, dan juga tautan yang terkandung dalam dokumen PDF. Dengan Google Analytics, pengguna dapat mengetahui iklan dan kata kunci apa yang paling banyak merujuk ke situs web pengguna.
 
-###Cara Memasang Google Analyticst di Blog Jekyll Github Pages ##
+## Cara Memasang Google Analyticst di Blog Jekyll Github Pages
 - Daftar Google Analytics [disini](http://www.google.com/analytics/)
 
 - Edit file `head.html` dan tambahkan kode Google Analytics sebelum `</head>`
@@ -64,7 +64,7 @@ Google Analytics adalah layanan gratis dari Google yang menampilkan statistik pe
 
 Jika anda menggunakan kode yang didapat dari situs web Google Analytics blog Jekyll anda yang di hosting di Github Pages tidak akan pernah terlacak `Status: Pelacakan Tidak Dipasang`, saya sendiri tidak tahu kenapa. Tapi menurut pendapat mas [@SunDi3yansyah](http://twitter.com/SunDi3yansyah) itu mungkin masalahnya di cache, karena jekyll adalah blog/situs web berupa halaman HTML statis, jadi google agak perlu waktu untuk membaca halaman update blog jekyll kita.
 
-###Hasilnya
+### Hasilnya
 
 ![](/assets/IMG_1409191.png)
 

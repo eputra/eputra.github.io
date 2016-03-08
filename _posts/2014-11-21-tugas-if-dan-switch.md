@@ -20,7 +20,7 @@ permalink: tugas-if-dan-switch
 	* 30 <= nilai < 60 : Nilai sedang
 	* 60 <= nilai <= 100 : Nilai tinggi
 
-###Konversi Nilai Huruf Menjadi Nilai Angka Menggunakan IF
+### Konversi Nilai Huruf Menjadi Nilai Angka Menggunakan IF
 {% highlight c %}
 //Konversi huruf ke angka
 #include <stdio.h>
@@ -53,7 +53,7 @@ Nilai = 4
 </pre>
 </div>
 
-###Konversi Nilai Huruf Menjadi Nilai Angka Menggunakan SWITCH
+### Konversi Nilai Huruf Menjadi Nilai Angka Menggunakan SWITCH
 {% highlight c %}
 //Konversi huruf ke angka
 #include <stdio.h>
@@ -83,7 +83,7 @@ Nilai = 4
 </pre>
 </div>
 
-###Menyeleksi Suatu Bilangan Menggunakan IF
+### Menyeleksi Suatu Bilangan Menggunakan IF
 {% highlight c %}
 //Menyeleksi suatu bilangan
 #include <stdio.h>
@@ -112,7 +112,7 @@ Nilai tinggi
 </pre>
 </div>
 
-###Menyeleksi Suatu Bilangan Menggunakan SWITCH
+### Menyeleksi Suatu Bilangan Menggunakan SWITCH
 {% highlight c %}
 //Menyeleksi suatu bilangan
 #include <stdio.h>
