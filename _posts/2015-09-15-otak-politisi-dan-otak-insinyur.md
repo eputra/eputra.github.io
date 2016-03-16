@@ -5,7 +5,6 @@ categories: bebas
 date: 2015-09-15
 author: Eka Putra
 comments: true
-permalink: otak-politisi-dan-otak-insinyur
 ---
 
 Dalam pertemuan World Economic Forum di Davos tahun 2008, saya menghadiri sebuah forum di mana pendiri-pendiri Google mempresentasikan pandangan mereka tentang energi dan saya merenung dengan sebuah pertanyaan bagaimana jika mereka mengurus indrustri lainnya, dan bahkan bagaimana jika mereka menjalankan roda pemerintahan. Hal tersebut memberi saya jendela ke dalam sudut pandang dunia para insinyur.

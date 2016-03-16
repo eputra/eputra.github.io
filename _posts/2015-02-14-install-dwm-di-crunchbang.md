@@ -6,7 +6,6 @@ categories: linux
 date: 2015-02-14
 author: Eka Putra
 comments: true
-permalink: install-dwm-di-crunchbang
 ---
 
 DWM singkatan dari Dynamic Windows Manager adalah sebuah tiling yang dibuat menggunakan bahasa pemrograman C, itu salah satu alasan kenapa saya memilih DWM untuk tiling di CrunchBang selain berukuran kecil juga karena dibuat menggunakan bahasa pemrograman C, karena kemarin di semester 1 bahasa pemrograman yang dipelajari yaitu C++ hampir miriplah dengan C, saya tidak ingin ilmu itu sia-sia ya walaupun masih ngedit-ngedit config punya orang :3

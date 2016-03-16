@@ -6,7 +6,6 @@ description: Mengatasi masalah ncmpcpp dan mpd di Xubuntu 14.04, playlist dan br
 date: 2015-09-27
 author: Eka Putra
 comments: true
-permalink: fix-ncmpcpp-dan-mpd-di-xubuntu-14-04
 ---
 
 Sebenarnya masalah ini sudah saya alami sejak lama (hampir enam bulan mungkin), saat pertama kali menginstall ncmpcpp dan mpd di Xubuntu 14.04 masalah ini sudah ada. Tapi tidak tahu kenapa saya malas memperbaikinya :3 sampai akhirnya kemarin ada teman Facebook saya yang menanyakan masalah ini. Saya pun termotivasi untuk memperbaiki masalah ini, dan jadilah tulisan sederhana ini sebagai dokumentasi :D

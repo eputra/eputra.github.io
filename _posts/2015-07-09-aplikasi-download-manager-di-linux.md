@@ -6,7 +6,6 @@ description: Beberapa aplikasi download manager di linux yang selalu saya gunaka
 date: 2015-07-09
 author: Eka Putra
 comments: true
-permalink: aplikasi-download-manager-di-linux
 ---
 
 Tidak bisa dimungkiri kegiatan mendownload hampir setiap hari dilakukan oleh pengguna internet. Entah itu mendownload ebook, gambar, mp3, atau video. Namun disituasi-situasi tertentu download manager default browser kurang powerful, jika anda hanya mengandalkan download manager default browser anda akan kesulitan ketika ingin mendownload sebuah video di YouTube atau di Facebook.

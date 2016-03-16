@@ -7,7 +7,6 @@ date: 2014-09-12
 author: Eka Putra
 comments: true
 math: true
-permalink: menampilkan-rumus-jekyll-mathjax
 ---
 
 Dengan menggunakan MathJax kita bisa menampilkan rumus matematika, fisika dan kimia di blog Jekyll offline (localhost) maupun online. MathJax sendiri adalah sebuah proyek opensource yang menggunakan JavaScript untuk menampilkan persamaan matematika di browser. Dengan menambahkan script dari MathJax kita bisa menampilkan lambang-lambang, persamaan, fungsi dan grafik matematika di blog kita dengan mudah.

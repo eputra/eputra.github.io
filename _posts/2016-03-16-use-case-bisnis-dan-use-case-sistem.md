@@ -6,7 +6,6 @@ description: Perbedaan use bisnis dan use case sistem. Use case bisnis adalah mo
 date: 2016-03-16
 author: Eka Putra
 comments: true
-permalink: /use-case-bisnis-dan-use-case-sistem/
 ---
 
 Use case adalah fungsi yang ada di dalam sebuah sistem. Itulah definisi use case dikebanyakan buku tentang UML dalam bahasa Indonesia. Namun dalam kenyataannya ternyata use case tidak hanya digunakan untuk memodelkan fungsi-fungsi yang ada di dalam sebuah sistem. Sekitar satu minggu kebelakang saya sempat dibingungkan oleh use case ini.

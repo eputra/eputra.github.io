@@ -6,7 +6,6 @@ categories: c++
 date: 2015-04-03
 author: Eka Putra
 comments: true
-permalink: tugas-linier-search-dan-binary-search
 ---
 
 ### Linier Search

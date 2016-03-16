@@ -6,7 +6,6 @@ description: Menyimpan config tema fluxbox (style, init, apps, gtk theme, icon, 
 date: 2015-10-26
 author: Eka Putra
 comments: true
-permalink: fluxbox-theme-save
 ---
 
 <div class="message">

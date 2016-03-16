@@ -6,7 +6,6 @@ description: Tugas cara membuat struktur pemilihan atau condition if dan switch 
 date: 2014-11-21
 author: Eka Putra
 comments: true
-permalink: tugas-if-dan-switch
 ---
 
 1. Buatlah program untuk mengkonversi nilai huruf menjadi nilai angka dengan ketentuan masukan berupa nilai huruf menggunakan intruksi IF dan SWITCH.

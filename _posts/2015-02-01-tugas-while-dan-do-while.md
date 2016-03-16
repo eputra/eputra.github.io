@@ -6,7 +6,6 @@ categories: c++
 date: 2015-02-01
 author: Eka Putra
 comments: true
-permalink: tugas-while-dan-do-while
 ---
 
 1. Buatlah program untuk menjumlahkan n buah data, dengan n merupakan masukan dari piranti masukan kemudian hitungah rata-ratanya menggunakan intruksi WHILE

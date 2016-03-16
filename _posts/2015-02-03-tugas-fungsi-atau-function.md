@@ -6,7 +6,6 @@ categories: c++
 date: 2015-02-03
 author: Eka Putra
 comments: true
-permalink: tugas-fungsi-atau-function
 ---
 
 Buatlah program untuk menentukan bilangan yang terbesar dan terkecil dari 2 buah bilangan yang diinputkan

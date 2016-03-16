@@ -7,7 +7,6 @@ date: 2015-04-18
 author: Eka Putra
 comments: true
 math: true
-permalink: kepo-dalam-belajar
 ---
 
 KEPO singkatan dari Knowing Every Particular Object. Artinya lu pengen tau banget sesuatu secara detail. Sampe hal-hal yang sepele juga lu tanyain, pokoknya banyak banget pertanyaan di kepala lu dan lu ingin tau itu sampe ke akar-akarnya.

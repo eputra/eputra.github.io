@@ -6,7 +6,6 @@ categories: c++
 date: 2015-02-04
 author: Eka Putra
 comments: true
-permalink: tugas-struktur-atau-struct
 ---
 
 1. Buat program untuk mencatat data mahasiswa yang terdiri dari field : Nama, Alamat, Tempat Tanggal Lahir, Jenis Kelamin
