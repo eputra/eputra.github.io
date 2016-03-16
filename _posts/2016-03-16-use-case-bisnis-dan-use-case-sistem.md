@@ -30,7 +30,7 @@ Use Case | Menjelaskan apa yang bisnis kerjakan. Tidak mempedulikan apakah prose
 Aktor | Eksternal terhadap organisai. Berada diluar organisasi tetapi berpartisipasi terlibat dalam proses bisnis organisasi. | Eksternal terhadap sistem (mungkin internal terhadap organisasi).
 Pekerja Bisnis | Internal terhadap organisasi. | Tidak digunakan.
 
-<span class="box warning small">Note</span> Pekerja bisnis juga termasuk aktor, hanya berbeda istilah saja. Contoh use case bisnis di Bank, **aktor** nasabah (eksternal) dan **pekerja bisnis** teller (internal). Teller sebagai pekerja bisnis (internal) di use case bisnis bisa menjadi aktor (eksternal) di use case sistem.
+<span class="box warning small">Note</span> Pekerja bisnis juga termasuk aktor, hanya berbeda istilah saja. Contoh dalam sebuah use case bisnis bank, **aktor** nasabah (eksternal) dan **pekerja bisnis** teller (internal). Teller sebagai pekerja bisnis (internal) di use case bisnis bisa menjadi aktor (eksternal) di use case sistem.
 
 ### Singkatnya
 **Use case bisnis** menjelaskan apa yang bisnis kerjakan. Dan **use case sistem** menjelaskan apa yang sistem lakukan di dalam bisnis atau bisa juga disebut use case sistem adalah **otomatisasi dari beberapa use case yang ada di dalam proses bisnis** (tidak semua use case bisnis harus diotomatisasi).
