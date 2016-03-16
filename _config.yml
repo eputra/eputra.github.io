@@ -1,7 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           :title
+permalink:           none
 paginate_path:       page/:num
 
 # Setup
