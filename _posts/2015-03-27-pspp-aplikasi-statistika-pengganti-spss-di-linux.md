@@ -13,10 +13,12 @@ Sebenarnya ada beberapa aplikasi statistika di Linux yang saya tahu seperti R, S
 
 ### Tampilan PSPP
 ![PSPP](/assets/pspp1.png "PSPP")
+
 ![PSPP](/assets/pspp2.png "PSPP")
 
 ### Tampilan SPSS
 ![SPSS](/assets/spss1.png "SPSS")
+
 ![SPSS](/assets/spss2.png "SPSS")
 
 ### Fitur PSPP
