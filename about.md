@@ -4,10 +4,10 @@ title: About
 description: Nama saya Eka Putra saya suka sekali dengan teknologi terutama komputer. Saat ini saya sedang menempuh pendidikan Sarjana di Universitas Kuningan (UNIKU) program studi Teknik Informatika.
 ---
 
-![Pantai Pangandaran 2014](/assets/IMG_3689.jpg "Pantai Pangandaran (2014)")
+![](/assets/IMG_3698.jpg)
 
 <div class="message">
-	Saya sebelah kanan (baju putih)
+	Saya jaket merah.
 </div>
 
 ### Saya
