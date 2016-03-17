@@ -18,5 +18,5 @@ Bodohnya saya selama ini, saya tidah pernah protes dengan kontrak kuliah tersebu
 <span class="box warning small">Note</span> Tidak semua dosen seperti itu.
 
 <h3 class="message">
-	Saya sangat menghormati dan mengagumi dosen-dosen yang semangat ketika mengajar, karena semangatnya tersebut akan menular kepada para mahasiswanya.
+Saya sangat menghormati dan mengagumi dosen-dosen yang semangat ketika mengajar, karena semangatnya tersebut akan menular kepada para mahasiswanya.
 </h3>
