@@ -3,6 +3,7 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           /:title/
 paginate_path:       /page/:num/
+future:              true
 
 # Setup
 title:               Eka Putra
