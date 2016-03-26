@@ -29,7 +29,7 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/eka-putra/eka-putra.github.io
+  repo:              https://github.com/byeka/byeka.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
