@@ -8,7 +8,7 @@ future:              true
 # Setup
 title:               Eka Putra
 tagline:             Learning, Programming, Jekylling, Blogging
-url:                 http://ekaputra.my.id
+url:                 https://eputra.github.io
 paginate:            10
 baseurl:             ""
 google_verify:       R7-YN_OrAoiqSsaehndhkF3A6gpt-zweBsplMmxh5zU
@@ -29,7 +29,7 @@ author:
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/byeka/byeka.github.io
+  repo:              https://github.com/eputra/eputra.github.io
 
 # This is the list of pages to include in the header of the website.
 pages_list:       
