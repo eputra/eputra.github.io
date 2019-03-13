@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: https://eputra.xml/sitemap.xml
-Disallow: https://eputra.xml/page/*
+Sitemap: https://eputra.xyz/sitemap.xml
+Disallow: https://eputra.xyz/page/*
