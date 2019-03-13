@@ -7,8 +7,8 @@ future:              true
 
 # Setup
 title:               Eka Putra
-tagline:             Learning, Programming, Jekylling, Blogging
-url:                 https://eputra.github.io
+tagline:             ePutra.xyz
+url:                 https://eputra.xyz
 paginate:            10
 baseurl:             ""
 google_verify:       R7-YN_OrAoiqSsaehndhkF3A6gpt-zweBsplMmxh5zU
