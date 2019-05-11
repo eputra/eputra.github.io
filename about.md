@@ -11,12 +11,14 @@ description: Nama saya Eka Putra saya suka sekali dengan teknologi terutama komp
 </div>
 
 ### Saya
-Saya sangat suka sekali dengan teknologi terutama komputer. Saat ini saya sedang menempuh pendidikan Sarjana di Universitas Kuningan (UNIKU) program studi Teknik Informatika.
+Saya sangat suka sekali dengan teknologi terutama komputer. Saat ini saya bekerja sebagai Back-End Developer di [Valutac](https://valutac.com "Valutac").
 
 ### Blog
 Blog ini dibuat menggunakan [Jekyll](http://jekyllrb.com "Jekyll"), tema [Poole](http://getpoole.com "Poole") dan di hosting di [GitHub](http://github.com "GitHub"). Blog ini juga bersifat Open Source anda dapat melihatnya [di sini](https://github.com/eputra/eputra.github.io "Source Blog").
 
 ### Kontak
-- Facebook : [http://facebook.com/eka415](http://facebook.com/eka415 "Facebook")
+- Email : eka@eputra.xyz
 
-- Twitter : [http://twitter.com/eka415](http://twitter.com/eka415 "Twitter")
+- Telegram : [https://t.me/eputra_xyz](https://t.me/eputra_xyz "Telegram") (fast response)
+
+- LinkedIn : [https://linkedin.com/in/ekaput](https://linkedin.com/in/ekaput "LinkedIn")
