@@ -17,8 +17,8 @@ Saya sangat suka sekali dengan teknologi terutama komputer. Saat ini saya bekerj
 Blog ini dibuat menggunakan [Jekyll](http://jekyllrb.com "Jekyll"), tema [Poole](http://getpoole.com "Poole") dan di hosting di [GitHub](http://github.com "GitHub"). Blog ini juga bersifat Open Source anda dapat melihatnya [di sini](https://github.com/eputra/eputra.github.io "Source Blog").
 
 ### Kontak
-- Email : eka@eputra.xyz
+- Email : <eka@eputra.xyz>
 
-- Telegram : [https://t.me/eputra_xyz](https://t.me/eputra_xyz "Telegram") (fast response)
+- Telegram : <https://t.me/eputra_xyz> **(fast response)**
 
-- LinkedIn : [https://linkedin.com/in/ekaput](https://linkedin.com/in/ekaput "LinkedIn")
+- LinkedIn : <https://linkedin.com/in/ekaput>
