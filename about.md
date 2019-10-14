@@ -11,7 +11,7 @@ description: Nama saya Eka Putra saya suka sekali dengan teknologi terutama komp
 </div>
 
 ### Saya
-Saya sangat suka sekali dengan teknologi terutama komputer. Saat ini saya bekerja sebagai Back-End Developer di [Valutac](https://valutac.com "Valutac").
+Saya sangat suka sekali dengan teknologi terutama komputer. Saat ini saya bekerja sebagai Back-End Developer di [TADA](https://usetada.com "TADA").
 
 ### Blog
 Blog ini dibuat menggunakan [Jekyll](http://jekyllrb.com "Jekyll"), tema [Poole](http://getpoole.com "Poole") dan di hosting di [GitHub](http://github.com "GitHub"). Blog ini juga bersifat Open Source anda dapat melihatnya [di sini](https://github.com/eputra/eputra.github.io "Source Blog").
