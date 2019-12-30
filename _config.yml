@@ -7,7 +7,7 @@ future:              true
 
 # Setup
 title:               Eka Putra
-tagline:             ePutra.xyz
+tagline:             eputra.xyz
 url:                 https://eputra.xyz
 paginate:            10
 baseurl:             ""
