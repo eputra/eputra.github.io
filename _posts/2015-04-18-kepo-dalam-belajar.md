@@ -23,7 +23,7 @@ Zeno mengatakan dalam suatu paradoks terkenal kira-kira 2400 tahun yang lalu bah
 
 Coba lu perhatikan jarak pertandingan yang panjangnya 1 mil ini. Ruas jarak dalam pikiran Zeno adalah \\(\frac12\\) mil, \\(\frac14\\) mil, \\(\frac18\\) mil dan seterusnya.
 
-![KEPO Belajar](/assets/kepo-belajar.png "KEPO Belajar")
+![KEPO Belajar](/assets/2015/04/18/kepo-dalam-belajar/kepo-belajar.png "KEPO Belajar")
 
 Dalam bahasa Matematika, mengakhiri pertandingan berarti lu harus menghitung jumlahnya \\(\frac12+\frac14+\frac18+\frac{1}{16}+\frac{1}{32}+ . . .\\) yang tampaknya tak mungkin. Walaupun demikian lu harus ingat bahwa jumlah telah didefinisikan hanya untuk suku-suku yang terhingga banyaknya. “Jumlah tak terhingga” sampai saat ini belum ada definisinya.
 

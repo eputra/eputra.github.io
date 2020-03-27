@@ -22,7 +22,7 @@ Biasanya saya menjalankan perintah `sudo apt-get install ruby ruby-dev make gcc 
 ### Instalasi Jekyll
 Menjalankan perintah `sudo gem install jekyll` ketika saya menginstall Jekyll ini, Jekyll ada di versi 2.5.3
 
-![Ruby Jekyll](/assets/ruby-jekyll.png "Ruby Jekyll")
+![Ruby Jekyll](/assets/2015/04/10/install-ruby-jekyll-github-di-xubuntu-14-04/ruby-jekyll.png "Ruby Jekyll")
 
 ### Instalasi GitHub
 - Menjalankan perintah `sudo apt-get install git-core git-gui git-doc gitg`

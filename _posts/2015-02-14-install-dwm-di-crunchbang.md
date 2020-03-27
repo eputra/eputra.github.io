@@ -91,6 +91,6 @@ sessions            openbox-session,dwm
 
 Terakhir silahkan `reboot` lalu waktu `login` pilih `dwm` dengan cara menekan `F1` hasilnya kurang lebih seperti dibawah ini :D
 
-![CrunchBang DWM](/assets/dwm1.png "CrunchBang DWM")
+![CrunchBang DWM](/assets/2015/02/14/install-dwm-di-crunchbang/dwm1.png "CrunchBang DWM")
 
 Happy Learning! and keep <3 Open Source

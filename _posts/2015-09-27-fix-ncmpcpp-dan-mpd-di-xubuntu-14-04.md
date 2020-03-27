@@ -16,7 +16,7 @@ Agar playlist dan browser musik kita tidak kosong kita harus menghentikan dan me
 
 Cara saya mengatasi masalah ini adalah dengan menghilangkan mpd dari daftar aplikasi autostart, saya coba dengan menggunakan aplikasi **Session and Startup** default Xubuntu 14.04, dengan menghilangkan tanda centang pada mpd dan dengan menghapus file `mpd.dekstop` di folder `~/.config/autostart`, tapi cara ini tidak bekerja, mpd tetap saja autostart.
 
-![Session dan Startup](/assets/session-and-startup.png "Session dan Startup")
+![Session dan Startup](/assets/2015/09/27/fix-ncmpcpp-dan-mpd-di-xubuntu-14-04/session-and-startup.png "Session dan Startup")
 
 Setelah saya browsing saya menemukan tulisan ini [MPD - Community Help Wiki](https://help.ubuntu.com/community/MPD "MPD - Community Help Wiki"), jadi untuk menghilangkan mpd dari daftar aplikasi autostart kita bisa dengan menjalankan perintah ini di terminal.
 

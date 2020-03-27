@@ -65,8 +65,8 @@ Jika anda menggunakan kode yang didapat dari situs web Google Analytics blog Jek
 
 ### Hasilnya
 
-![](/assets/IMG_1409191.png)
+![](/assets/2014/09/19/google-analystics-jekyll-github-pages/IMG_1409191.png)
 
-![](/assets/IMG_1409192.png)
+![](/assets/2014/09/19/google-analystics-jekyll-github-pages/IMG_1409192.png)
 
 Happy Jekylling!
