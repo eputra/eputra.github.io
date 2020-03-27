@@ -19,6 +19,6 @@ Blog ini dibuat menggunakan [Jekyll](http://jekyllrb.com "Jekyll"), tema [Poole]
 ### Kontak
 - Email : <ekaputtra@gmail.com>
 
-- Telegram : <https://t.me/eputra_xyz> **(fast response)**
+- Telegram : <https://t.me/owell_id> **(fast response)**
 
 - LinkedIn : <https://linkedin.com/in/ekaput>
