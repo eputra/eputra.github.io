@@ -37,7 +37,7 @@ pages_list:
   Categories: /categories/
 
 # Plugin
-gems:
+plugins:
   - jekyll-sitemap 
   - jekyll-paginate
   - jekyll-gist
