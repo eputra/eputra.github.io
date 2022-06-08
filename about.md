@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Nama saya Eka Putra saya suka sekali dengan teknologi terutama komputer. Saat ini saya sedang menempuh pendidikan Sarjana di Universitas Kuningan (UNIKU) program studi Teknik Informatika.
+description: Nama saya Eka Putra saya sangat suka sekali dengan teknologi terutama komputer. Saat ini saya bekerja sebagai Software Engineer di Tada.
 ---
 
 ![](/assets/about/eka-putra.jpg)
